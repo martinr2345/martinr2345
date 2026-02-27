@@ -12,7 +12,7 @@
   - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CourseCareer Tech Sales](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Harvard Business School Economics for Managers](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Harvard Business School Economics for Managers](https://i.imgur.com/kxHLUbX.png)
   - [Harvard Business School Entrepreneurship Essentials](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Harvard Business School Sustainable Business Strategy](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Harvard Business School Healthcare Economics](https://github.com/joshmadakor1/Algorithms-Practice)
