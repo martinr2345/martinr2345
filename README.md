@@ -1,7 +1,45 @@
-## Hi there 👋
+<h1>Hi, I'm Martin!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mini Compliance Program](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2><img width="50" height="50" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d" /> Certifications</h2>
+
+
+  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CourseCareer Tech Sales](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Harvard Business School Economics for Managers](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Harvard Business School Entrepreneurship Essentials](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Harvard Business School Sustainable Business Strategy](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Harvard Business School Healthcare Economics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cisco Computer Hardware Basics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cisco Computer Networking Basics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cisco Computer Operating Systems Basics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys Vulnerability Management Foundation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys PCI Compliance](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys VMDR Vulnerability Management Detection And Response](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys TotalAppSec](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**MartinR2345/MartinR2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
