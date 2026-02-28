@@ -11,7 +11,7 @@
 
   - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
-  - [CourseCareer Tech Sales](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CourseCareer Tech Sales](https://i.imgur.com/2Go7D68.png)
   - [Harvard Business School Economics for Managers](https://i.imgur.com/kxHLUbX.png)
   - [Harvard Business School Entrepreneurship Essentials](https://i.imgur.com/KBh0jRR.png)
   - [Harvard Business School Sustainable Business Strategy](https://i.imgur.com/8kMzi4T.png)
