@@ -13,6 +13,7 @@
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
   - [CourseCareers Tech Sales](https://i.imgur.com/2Go7D68.png)
   - [Basics of Leadership](https://i.imgur.com/Wfp2YNv.png)
+  - [Care Management: Basic Communication Skills](https://i.imgur.com/G56CCaD.png)
   - [Harvard Business School Economics for Managers](https://i.imgur.com/kxHLUbX.png)
   - [Harvard Business School Entrepreneurship Essentials](https://i.imgur.com/KBh0jRR.png)
   - [Harvard Business School Sustainable Business Strategy](https://i.imgur.com/8kMzi4T.png)
