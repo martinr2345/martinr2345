@@ -10,12 +10,12 @@
 
 
   - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
   - [CourseCareer Tech Sales](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Harvard Business School Economics for Managers](https://i.imgur.com/kxHLUbX.png)
-  - [Harvard Business School Entrepreneurship Essentials](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Harvard Business School Sustainable Business Strategy](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Harvard Business School Healthcare Economics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Harvard Business School Entrepreneurship Essentials](https://i.imgur.com/KBh0jRR.png)
+  - [Harvard Business School Sustainable Business Strategy](https://i.imgur.com/8kMzi4T.png)
+  - [Harvard Business School Specialization in Strategy](https://i.imgur.com/7hSaGdi.png)
   - [Cisco Computer Hardware Basics](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Cisco Computer Networking Basics](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Cisco Computer Operating Systems Basics](https://github.com/joshmadakor1/Algorithms-Practice)
