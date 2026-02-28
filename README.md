@@ -9,9 +9,9 @@
 <h2><img width="50" height="50" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d" /> Certifications</h2>
 
 
-  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CompTIA Security+](https://i.imgur.com/mHl1BBC.png)
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
-  - [CourseCareer Tech Sales](https://i.imgur.com/2Go7D68.png)
+  - [CourseCareers Tech Sales](https://i.imgur.com/2Go7D68.png)
   - [Harvard Business School Economics for Managers](https://i.imgur.com/kxHLUbX.png)
   - [Harvard Business School Entrepreneurship Essentials](https://i.imgur.com/KBh0jRR.png)
   - [Harvard Business School Sustainable Business Strategy](https://i.imgur.com/8kMzi4T.png)
