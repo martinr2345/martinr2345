@@ -1,5 +1,5 @@
 <h1>Hi, I'm Martin!</h1>
-
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
