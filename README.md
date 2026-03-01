@@ -21,11 +21,11 @@
   - [Cisco Computer Hardware Basics](https://i.imgur.com/6KlZMKo.png)
   - [Cisco Computer Networking Basics](https://i.imgur.com/eZGsw31.png)
   - [Cisco Computer Operating Systems Basics](https://i.imgur.com/Tsh90jk.png)
-  - [Qualys Vulnerability Management Foundation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Qualys PCI Compliance](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Qualys VMDR Vulnerability Management Detection And Response](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Qualys TotalAppSec](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys Vulnerability Management](https://i.imgur.com/1Cz0R23.png)
+  - [Qualys CyberSecurity Asset Management (CSAM)](https://i.imgur.com/wrtAxY3.png)
+  - [Qualys PCI Compliance](https://i.imgur.com/7bmxBvc.png)
+  - [Qualys VMDR Vulnerability Management Detection And Response](https://i.imgur.com/FxSHe8l.png)
+  - [Qualys TotalAppSec](https://i.imgur.com/PzpH1iI.png)
   - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
