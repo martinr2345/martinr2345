@@ -1,13 +1,23 @@
 <h1>Hi, I'm Martin!</h1>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Mini Compliance Program](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## 👨‍💻 Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 <h2><img width="50" height="50" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d" /> Certifications</h2>
-
 
   - [CompTIA Security+](https://i.imgur.com/mHl1BBC.png)
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
