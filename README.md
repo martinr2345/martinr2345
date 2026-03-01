@@ -10,8 +10,8 @@ After several years in healthcare scheduling patients appointments and managing 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Active Directory Homelab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Mini Compliance Program</a>|
+| Windows Server Administration, Active Directory, Group Policy, DNS/DHCP, PowerShell, Virtualization, Network Security|<a href="https://google.com">Active Directory Homelab</a>|
+| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals | <a href="https://google.com">Mini Compliance Program</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
