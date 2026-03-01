@@ -6,7 +6,6 @@
 After several years in healthcare scheduling patients appointments and managing sensitive information, I'm pursuing a career in cybersecurity with a focus on Governance, Risk, and Compliance. I’m passionate about learning industry frameworks and helping organizations protect data. 
 
 ## 👨‍💻 Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
