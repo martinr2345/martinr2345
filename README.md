@@ -10,7 +10,7 @@ After several years in healthcare scheduling patients appointments and managing 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server Administration, Active Directory, Group Policy, DNS/DHCP, PowerShell, Virtualization, Network Security|<a href="https://google.com">Active Directory Homelab</a>|
-| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals | <a href="https://google.com">Mini Compliance Program</a>|
+| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals | <a href="https://google.com">Mini Compliance Program (ISO 27001)</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
