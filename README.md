@@ -1,4 +1,5 @@
 <h1>Hi, I'm Martin!</h1>
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
@@ -36,6 +37,10 @@ After several years in healthcare scheduling patients appointments and managing 
   - [Qualys VMDR Vulnerability Management Detection And Response](https://i.imgur.com/FxSHe8l.png)
   - [Qualys TotalAppSec](https://i.imgur.com/PzpH1iI.png)
   - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
+
+## 👨‍💻 Virtual Internships 
+ [Forager Mastercard Cybersecurity Job Simulation](https://i.imgur.com/mHl1BBC.png)
+
 
 <h2> 🤳 Connect with me:</h2>
 
