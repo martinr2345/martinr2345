@@ -11,7 +11,7 @@ After several years in healthcare scheduling patients appointments and managing 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server Administration, Active Directory, Group Policy, DNS/DHCP, PowerShell, Virtualization, Network Security|<a href="https://github.com/MartinR2345/ActiveDirectoryLab">Active Directory Homelab</a>|
-| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals | <a href="https://google.com">Mini Compliance Program (ISO 27001 Framework)</a>|
+| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals | <a href="https://github.com/MartinR2345/MiniComplianceProgram">Mini Compliance Program (ISO 27001 Framework)</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">Cybersecurity Program (NIST Framework)</a>|
 
 <h2><img width="50" height="50" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d" /> Certifications</h2>
