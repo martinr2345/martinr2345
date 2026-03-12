@@ -37,7 +37,7 @@ After several years in healthcare scheduling patients appointments and managing 
   - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
 
 ## 👨‍💻 Virtual Internships 
- [Forager Mastercard Cybersecurity Job Simulation](https://i.imgur.com/mHl1BBC.png) <br>
+ [Forager Mastercard Cybersecurity Job Simulation](https://i.imgur.com/va0RxgV.png) <br>
  [Forager AIG Shields Up Cybersecurity Job Simulation](https://i.imgur.com/tWRdNnw.png)
 
 
