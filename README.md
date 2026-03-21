@@ -33,7 +33,7 @@ After several years in healthcare scheduling patients appointments and managing 
   - [Qualys PCI Compliance](https://i.imgur.com/7bmxBvc.png)
   - [Qualys VMDR Vulnerability Management Detection And Response](https://i.imgur.com/FxSHe8l.png)
   - [Qualys TotalAppSec](https://i.imgur.com/PzpH1iI.png)
-  - [Forage Mastercard Cybersecurity Job Simulation](https://i.imgur.com/QWRwJ8I.png)
+  - [Google AI Professional](https://i.imgur.com/PIVaFVS.png)
   - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
 
 ## 👨‍💻 Virtual Internships 
