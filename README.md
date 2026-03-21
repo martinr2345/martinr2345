@@ -17,6 +17,7 @@ After several years in healthcare scheduling patients appointments and managing 
 <h2><img width="50" height="50" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d" /> Certifications</h2>
 
   - [CompTIA Security+](https://i.imgur.com/mHl1BBC.png)
+  - [Google AI Professional](https://i.imgur.com/PIVaFVS.png)
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
   - [CourseCareers Tech Sales](https://i.imgur.com/2Go7D68.png)
   - [Basics of Leadership](https://i.imgur.com/Wfp2YNv.png)
@@ -33,7 +34,6 @@ After several years in healthcare scheduling patients appointments and managing 
   - [Qualys PCI Compliance](https://i.imgur.com/7bmxBvc.png)
   - [Qualys VMDR Vulnerability Management Detection And Response](https://i.imgur.com/FxSHe8l.png)
   - [Qualys TotalAppSec](https://i.imgur.com/PzpH1iI.png)
-  - [Google AI Professional](https://i.imgur.com/PIVaFVS.png)
   - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
 
 ## 👨‍💻 Virtual Internships 
