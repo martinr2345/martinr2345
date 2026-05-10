@@ -14,7 +14,7 @@ After several years in healthcare scheduling patients appointments and managing 
 | Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals, risk register| <a href="https://github.com/MartinR2345/MiniComplianceProgram">Mini Compliance Program (ISO 27001 Framework)</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/MartinR2345/EndtoEndCybersecurityProgram-/blob/main/README.md">Cybersecurity Program (NIST Framework)</a>|
 
-<h2><img width="50" height="50" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d" /> Certifications</h2>
+<h2><img width="30" height="30" alt="certificate_6703900" src="https://github.com/user-attachments/assets/ac59a8a2-18a9-4461-8f9f-b60f7d86043d"/>Certifications</h2>
 
   - [CompTIA Security+](https://i.imgur.com/mHl1BBC.png)
   - [Google AI Professional](https://i.imgur.com/PIVaFVS.png)
