@@ -21,7 +21,7 @@ After several years in healthcare scheduling patients appointments and managing 
   - [Google AI Professional](https://i.imgur.com/PIVaFVS.png)
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
   - [Google AI Essentials](https://i.imgur.com/dwqjqL1.png)
-  - [IBM AI Fundamentals](https://i.imgur.com/kOlVUNS.png)
+  - [IBM AI Fundamentals](https://i.imgur.com/azRQEsO.png)
   - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://i.imgur.com/S1SddJZ.png)
   - [CourseCareers Tech Sales](https://i.imgur.com/2Go7D68.png)
   - [Basics of Leadership](https://i.imgur.com/Wfp2YNv.png)
