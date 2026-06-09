@@ -18,6 +18,7 @@ After several years in healthcare scheduling patients appointments and managing 
 ## 🏆🏅📜 Certifications
 
   - [CompTIA Security+](https://i.imgur.com/mHl1BBC.png)
+  - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://i.imgur.com/dUGwrvg.png)
   - [Google AI Professional](https://i.imgur.com/PIVaFVS.png)
   - [Google IT Support Professional](https://i.imgur.com/0tFnUZQ.png)
   - [Google AI Essentials](https://i.imgur.com/dwqjqL1.png)
@@ -38,7 +39,6 @@ After several years in healthcare scheduling patients appointments and managing 
   - [Qualys PCI Compliance](https://i.imgur.com/7bmxBvc.png)
   - [Qualys VMDR Vulnerability Management Detection And Response](https://i.imgur.com/FxSHe8l.png)
   - [Qualys TotalAppSec](https://i.imgur.com/PzpH1iI.png)
-  - [Cyber Security Governance, Risk, and Compliance (GRC) Mastery](https://i.imgur.com/dUGwrvg.png)
 
 ## 👨‍💻 Virtual Internships 
  [Forager Mastercard Cybersecurity Job Simulation](https://i.imgur.com/va0RxgV.png) <br>
